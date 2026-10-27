@@ -12,4 +12,8 @@ Validated on 27 October 2026.
 - Favorited and deleted the custom recipe using the confirmation dialog; verified My Recipes returned to 0 recipes.
 - Native Android/iOS execution and native photo permission dialogs were not tested on physical devices. Android hardware Back is implemented but requires a device check.
 
-The GitHub repository was created as Public in the connected account. Snack import verification is documented separately in the delivery message.
+The GitHub repository was created as Public in the connected account. Imported successfully through Snack's **Import git repository** command with SDK 54; the Web preview rendered the complete Foodie feed. A `.cjs` test extension initially caused Snack to treat the file as an unsupported asset; using `.js` resolved the import error.
+
+Repository: https://github.com/aidok333999-cell/foodie-recipes
+
+Snack: https://snack.expo.dev/@git/github.com/aidok333999-cell/foodie-recipes

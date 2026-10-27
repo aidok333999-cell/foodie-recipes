@@ -4,6 +4,10 @@ A complete React Native / Expo recipe app for Android, iOS and web. No API key o
 
 Public repository: https://github.com/aidok333999-cell/foodie-recipes
 
+Open in Expo Snack: https://snack.expo.dev/@git/github.com/aidok333999-cell/foodie-recipes
+
+Import Git Repository was tested successfully with SDK 54 and the app rendered in Snack's Web preview.
+
 ## Run locally
 
 Install Node.js 20.19+ and run inside this folder:
