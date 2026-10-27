@@ -4,7 +4,7 @@ Validated on 27 October 2026.
 
 - Dependency installation completed successfully (727 packages).
 - Expo SDK 54 dependency versions matched `expo/bundledNativeModules.json`.
-- `node --test tests/*.test.cjs`: 4 tests passed, 0 failed.
+- `node --test tests/*.test.js`: 4 tests passed, 0 failed.
 - `expo export --platform web`: successful production build, 221 modules.
 - Browser check of the actual exported React Native Web app: 12 sample recipe cards, horizontal categories, Pasta filter (1 matching recipe), heart toggle, Favorites, full recipe details, Back, required-field error, photo upload, save, edit, My Food and My Recipes.
 - Created a recipe through the form using a real uploaded PNG; verified ingredients, steps and all numeric fields in its detail page.
